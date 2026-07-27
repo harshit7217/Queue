@@ -27,3 +27,32 @@
   <li>Dynamic circular array based implementation</li>
   <li>Linked List Implementation</li>
 </ul>
+
+<h4>Performance and Limitation of Simple circular array based implementation</h4>
+
+<table>
+  <tr>
+    <th>Space Complexity</th>
+    <td>O(n)</td>
+  </tr>
+  <tr>
+    <th>Time Complexity of enQueue</th>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+  <th>Time Complexity of deQueue</th>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+  <th>Time Complexity of isEmpty</th>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+  <th>Time Complexity of isFull</th>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+  <th>Time Complexity of size</th>
+    <td>O(1)</td>
+  </tr>
+</table>
