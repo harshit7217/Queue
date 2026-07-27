@@ -25,7 +25,7 @@
 <ul>
   <li><a href="https://github.com/harshit7217/Queue/blob/main/src/implementation/queueWithSimpleArray/QueueWithSimpleArray.java">Simple circular array based implementation</a></li>
   <li><a href="https://github.com/harshit7217/Queue/blob/main/src/implementation/dynamicCicularArray/Queue.java">Dynamic circular array based implementation</a></li>
-  <li>Linked List Implementation</li>
+  <li><a href="https://github.com/harshit7217/Queue/blob/main/src/implementation/queueWithLinkedList/Queue.java">Linked List Implementation</a></li>
 </ul>
 
 <h3>Performance and Limitation of Simple circular array based implementation</h4>
@@ -60,6 +60,35 @@
 <p>The maximum size of queue must be defined as prior and cannot be changed.</p>
 
 <h3>Performance of Dynamic Circular Array Implementation</h3>
+
+<table>
+  <tr>
+    <th>Space Complexity</th>
+    <td>O(n)</td>
+  </tr>
+  <tr>
+    <th>Time Complexity of enQueue</th>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+  <th>Time Complexity of deQueue</th>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+  <th>Time Complexity of isEmpty</th>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+  <th>Time Complexity of isFull</th>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+  <th>Time Complexity of size</th>
+    <td>O(1)</td>
+  </tr>
+</table>
+
+<h3>Performance of Linked List Implementation</h3>
 
 <table>
   <tr>
