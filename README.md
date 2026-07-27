@@ -23,7 +23,7 @@
 <h3>Implementation</h3>
 
 <ul>
-  <li>Simple circular array based implementation</li>
+  <li><a href="https://github.com/harshit7217/Queue/blob/main/src/implementation/queueWithSimpleArray/QueueWithSimpleArray.java">Simple circular array based implementation</a></li>
   <li>Dynamic circular array based implementation</li>
   <li>Linked List Implementation</li>
 </ul>
@@ -56,3 +56,5 @@
     <td>O(1)</td>
   </tr>
 </table>
+
+<p>The maximum size of queue must be defined as prior and cannot be changed.</p>
