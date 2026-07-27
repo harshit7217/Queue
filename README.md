@@ -121,5 +121,6 @@
 
 <ol>
     <li><a href="https://github.com/harshit7217/Queue/blob/main/src/problems/ReversingQueue.java">Reverse Queue</a></li>
-    <li><a href="https://github.com/harshit7217/Queue/blob/main/src/problems/ImplementationQueueUsingStack.java">Implementation of Queue Using Stack</a></li>
+    <li><a href="https://github.com/harshit7217/Queue/blob/main/src/problems/ImplementationQueueUsingStack.java">Implementation Queue using Stack</a></li>
+    <li><a href="https://github.com/harshit7217/Queue/blob/main/src/problems/ImplementationStackUsingQueue.java">Implementation Stack using Queue</a></li>
 </ol>
